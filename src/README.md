@@ -9,34 +9,19 @@ heroFullScreen: true
 tagline: 分享交流互助进步
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 查看作者
+    desc: 来看看我的主页
+    link: https://intro.wk8686.top/
 
   - icon: link
-    name: 链接名称
+    name: 查看更多博客
     desc: 链接详细描述
-    link: https://链接地址
+    link: https://wk8686.top
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
-
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
-
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
-
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+    name: 云盘资料
+    desc: 下载相关内容
+    link: https://alist.wk8686.top/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%BA%90
 
 footer: 自定义你的页脚文字
 ---
